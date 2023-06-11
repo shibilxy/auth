@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/authentication" element={<GateOne />} />
+        <Route exact path="/auth" element={<GateOne />} />
         <Route  path="/GateTwo"element={<GateTwo />} />  
         <Route  path="/FinalGate"element={<FinalGate/>} /> 
         <Route  path="/Home" element={<Home/>}   />
