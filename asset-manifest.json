@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/auth/static/css/main.6732b7f3.css",
+    "main.js": "/auth/static/js/main.00142b38.js",
+    "static/media/openSiren.mp3": "/auth/static/media/openSiren.18862a41ece4e24eed94.mp3",
+    "static/media/locker.png": "/auth/static/media/locker.415e05f61ab794c8b17c.png",
+    "static/media/welcomeSound.mp3": "/auth/static/media/welcomeSound.5dbd22976c906c9c19b8.mp3",
+    "static/media/openSound.mp3": "/auth/static/media/openSound.2e9543f1384cf7ade09b.mp3",
+    "static/media/art5.jpeg": "/auth/static/media/art5.28ef4a492328f95c0ad3.jpeg",
+    "static/media/art2.jpeg": "/auth/static/media/art2.4f817d0f5a1c8c6cf519.jpeg",
+    "static/media/art3.jpeg": "/auth/static/media/art3.c07e14b602ed741d3940.jpeg",
+    "static/media/art1.jpeg": "/auth/static/media/art1.5af0f8a7a0e7157685a5.jpeg",
+    "static/media/art4.jpeg": "/auth/static/media/art4.34ce04fbe04a055deaf9.jpeg",
+    "static/media/issusu.jpeg": "/auth/static/media/issusu.45a460a8f34f49f08849.jpeg",
+    "static/media/beep.mp3": "/auth/static/media/beep.1eda3a397083fa06bc0b.mp3",
+    "index.html": "/auth/index.html",
+    "main.6732b7f3.css.map": "/auth/static/css/main.6732b7f3.css.map",
+    "main.00142b38.js.map": "/auth/static/js/main.00142b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6732b7f3.css",
+    "static/js/main.00142b38.js"
+  ]
+}
