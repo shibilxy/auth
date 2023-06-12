@@ -19,7 +19,7 @@ function Home() {
   useEffect(() => {
     const redirectTimeout = setTimeout(() => {
       alert("Due to privacy concern you cant spend more than 24 seconds in this page.")
-      window.location.href = '/authentication';
+      window.location.href = '/auth';
     }, 24000); 
     return () => {
       clearTimeout(redirectTimeout); // Clear the timeout if the component is unmounted
